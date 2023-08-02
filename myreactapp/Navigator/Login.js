@@ -16,7 +16,6 @@ import {
   Image,
   Linking,
   string
-
 } from 'react-native';
 import {
   Colors,
